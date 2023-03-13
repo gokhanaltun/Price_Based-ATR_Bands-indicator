@@ -5,6 +5,10 @@
  It is not for generating buy-sell signals.
  Making a trading decision with this indicator alone can have negative consequences!
 
+ ### Screenshot
+
+ <img alt="ATR-Bands" src="ATR-Bands.png"> </img>
+
  ### Code
 
 ```js
